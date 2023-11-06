@@ -10,4 +10,4 @@ Basic project build basic deck operation and managed unit test
 
 you need to include all files that is needed to build the project in main package
 
-* `go build main.go deck.go`
+* `go run main.go deck.go learningStruct.go interfaceEx.go`
